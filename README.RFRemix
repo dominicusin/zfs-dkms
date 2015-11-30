@@ -1,0 +1,5 @@
+Название:               Native ZFS for Linux! FS is an advanced file system and volume manager which was originally developed for Solaris  <http://zfsonlinux.org>
+Мейнтейнер:             Dominicusin Montessori
+Репозиторий:            free
+Почему не в апстриме:   перенесено из апстрим git@github.com:zfsonlinux/spl.git
+Комментарий:            ---
